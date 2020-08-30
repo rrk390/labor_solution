@@ -8,3 +8,6 @@ migrations/
 
 # pycache
 __pycache__/
+
+# Virtual env
+venv/
